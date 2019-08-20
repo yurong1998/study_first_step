@@ -4,4 +4,8 @@ could stop
 new a branch is quick and easy emm
 new branch dev
 correct bug
+<<<<<<< HEAD
 edit in local
+=======
+haha
+>>>>>>> 1191d4565b9eaf3f8d58119d5a4fcdde075304b4
